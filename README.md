@@ -1,9 +1,3 @@
-# calculadora
-
-A new Flutter project.
-
-[!NOTE] Nombre: wiliam morales aimacaña curso: cuarto "A"
-
 # Calculadora Flutter
 
 Este es un proyecto de Flutter para construir una **calculadora** básica.
@@ -28,4 +22,9 @@ Cuarto "A"
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/tuusuario/calculadora_flutter.git
+   git clone https://github.com/12CUY/calculadora.git
+
+# Calculadora JS
+
+<img src="../calculadora/img/imagen1.jpeg" alt="drawing" width="400"/>
+<img src="/img/imagen2.jpeg" alt="drawing" width="400"/>
