@@ -26,5 +26,5 @@ Cuarto "A"
 
 # Calculadora JS
 
-<img src="../calculadora/img/imagen1.jpeg" alt="drawing" width="400"/>
+<img src="/img/imagen1.jpeg" alt="drawing" width="400"/>
 <img src="/img/imagen2.jpeg" alt="drawing" width="400"/>
